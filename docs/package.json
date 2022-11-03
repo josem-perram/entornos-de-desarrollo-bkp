@@ -1,0 +1,19 @@
+{
+  "name": "entornos-de-desarrollo",
+  "version": "0.0.1",
+  "description": "Desarrollo de Aplicaciones Multiplataforma",
+  "main": "index.js",
+  "authors": {
+    "name": "Chema",
+    "email": "josem.perram@educa.jcyl.es"
+  },
+  "repository": "https://github.com/IESAM-DAM/entornos-de-desarrollo.git/entornos-de-desarrollo",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
